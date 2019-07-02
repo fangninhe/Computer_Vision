@@ -1,6 +1,7 @@
 # Multi-View Geometry and 3D Computer Vision
 In this space, everything is about multi-view geometry and 3D computer vision.  
-The review of each part is written in Juptyer Notebook, and the all testing code is implemented in Python. Then, one can easily check it in the browser. 
+I've been always using C++ for photogrammetry and computer vision-related reasearch. However, considering this space is mainly a review of each part in multi-view geometry and 3D computer vision, Juptyer Notebook is selected and all testing code is demonstrated in python. Then, one can easily check it in the browser.
+
 
 References:
 1. Multiple view geometry in computer vision, R. Hartley, and A. Zisserman
