@@ -1,6 +1,5 @@
 # Multi-View Geometry and 3D Computer Vision
-In this space, everything is about multi-view geometry and 3D computer vision.  
-I've been always using C++ for my work and reasearch. However, considering this space is mainly used for reviewing each part of multi-view geometry and 3D computer vision, All testing code is demonstrated in Jupyter notebook. Then, one can easily check it in the browser.
+In this space, everything is about multi-view geometry and 3D computer vision. All testing codes are demonstrated in Jupyter notebook. One can easily check it in the browser.
 
 
 References:
